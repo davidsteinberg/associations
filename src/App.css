@@ -1,0 +1,38 @@
+.App {
+  --padding: 1rem;
+  --font-size: 3rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size);
+  cursor: pointer;
+}
+
+.App > .words {
+  width: 90%;
+}
+
+.App > .toggle {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: var(--padding);
+  padding-top: calc(var(--padding) * 0.5);
+  font-size: calc(var(--font-size) * 0.6);
+}
+
+.App > .settings {
+  font-size: calc(var(--font-size) * 0.6);
+  width: 100%;
+}
+
+.App > .settings > .row {
+  display: flex;
+  padding: var(--padding);
+}
+
+.App > .settings > .row > .column:first-child {
+  flex-grow: 1;
+}

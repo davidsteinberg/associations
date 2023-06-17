@@ -1,0 +1,320 @@
+[
+  {
+    "name": "Anansa",
+    "description": "goddess",
+    "words": ["sea", "allure", "beauty"]
+  },
+  {
+    "name": "Baron La Croix",
+    "description": "loa",
+    "words": ["dead", "sexuality"]
+  },
+  {
+    "name": "Baron Samedi",
+    "description": "loa",
+    "words": ["dead", "sex", "resurrection"]
+  },
+  {
+    "name": "Erzulie Freda Dahomey",
+    "description": "loa",
+    "words": ["love", "beauty", "jewelry", "dancing", "luxury", "flowers"]
+  },
+  {
+    "name": "Oshun",
+    "description": "goddess",
+    "words": [
+      "luxury",
+      "pleasure",
+      "sexuality",
+      "fertility",
+      "beauty",
+      "love",
+      "the river",
+      "fresh water"
+    ]
+  },
+  { "name": "Astarte", "description": "goddess", "words": ["sex", "war"] },
+  {
+    "name": "Bastet",
+    "description": "goddess",
+    "words": ["felines", "love", "protection", "perfume", "beauty", "dance"]
+  },
+  { "name": "Bes", "description": "god", "words": ["music", "love", "dance"] },
+  {
+    "name": "Hathor",
+    "description": "goddess",
+    "words": ["love", "beauty", "music"]
+  },
+  {
+    "name": "Min",
+    "description": "god",
+    "words": ["reproduction", "love", "sexual pleasure"]
+  },
+  { "name": "Zamani", "description": "god", "words": ["sex", "beauty"] },
+  {
+    "name": "Inanna/Ishtar",
+    "description": "goddess",
+    "words": ["sex", "love", "beauty", "wine", "war"]
+  },
+  {
+    "name": "Nanaya",
+    "description": "goddess",
+    "words": ["voluptuousness", "sexuality", "sensuality"]
+  },
+  {
+    "name": "Prende",
+    "description": "goddess",
+    "words": ["love", "beauty", "fertility"]
+  },
+  { "name": "Milda", "description": "goddess", "words": ["love", "freedom"] },
+  {
+    "name": "Dogoda",
+    "description": "spirit",
+    "words": ["the west wind", "love", "gentleness"]
+  },
+  {
+    "name": "Dzydzilelya",
+    "description": "goddess",
+    "words": ["love", "marriage", "sexuality", "fertility"]
+  },
+  { "name": "Siebog", "description": "god", "words": ["love", "marriage"] },
+  { "name": "Živa", "description": "goddess", "words": ["love", "fertility"] },
+  {
+    "name": "Lada",
+    "description": "goddess",
+    "words": ["beauty", "fertility"]
+  },
+  {
+    "name": "Jarilo",
+    "description": "god",
+    "words": ["fertility", "springtime", "lust", "passion"]
+  },
+  {
+    "name": "Áine",
+    "description": "goddess",
+    "words": ["love", "summer", "wealth", "sovereignty"]
+  },
+  { "name": "Branwen", "description": "goddess", "words": ["love", "beauty"] },
+  { "name": "Cliodhna", "description": "goddess", "words": ["love", "beauty"] },
+  {
+    "name": "Babalon",
+    "description": "godform",
+    "words": ["lust", "carnality", "the liberated woman"]
+  },
+  { "name": "Asmodeus", "description": "demon", "words": ["lust"] },
+  { "name": "Eostre", "description": "goddess", "words": ["dawn"] },
+  {
+    "name": "Freyja",
+    "description": "goddess",
+    "words": ["love", "sex", "beauty", "war", "death"]
+  },
+  { "name": "Frigg", "description": "goddess", "words": ["marriage", "women"] },
+  {
+    "name": "Lofn",
+    "description": "goddess",
+    "words": ["forbidden marriages"]
+  },
+  { "name": "Sjöfn", "description": "goddess", "words": ["love"] },
+  {
+    "name": "Aphrodite",
+    "description": "goddess",
+    "words": ["love", "sex", "beauty"]
+  },
+  { "name": "Dionysus", "description": "god", "words": ["wine", "pleasure"] },
+  { "name": "Eos", "description": "goddess", "words": ["dawn"] },
+  { "name": "Anteros", "description": "god", "words": ["requited love"] },
+  { "name": "Eros", "description": "god", "words": ["love", "procreation"] },
+  {
+    "name": "Himeros",
+    "description": "god",
+    "words": ["sexual desire", "unrequited love"]
+  },
+  {
+    "name": "Hedylogos",
+    "description": "god",
+    "words": ["sweet talk", "flattery"]
+  },
+  {
+    "name": "Hermaphroditus",
+    "description": "god",
+    "words": ["hermaphrodites", "effeminate men"]
+  },
+  {
+    "name": "Hymen",
+    "description": "god",
+    "words": ["marriage", "weddings", "the bridal hymn"]
+  },
+  {
+    "name": "Pothos",
+    "description": "god",
+    "words": ["sexual longing", "yearning", "desire"]
+  },
+  { "name": "Hedone", "description": "goddess", "words": ["pleasure"] },
+  {
+    "name": "Helios",
+    "description": "sun",
+    "words": ["love-magic", "lovesick men"]
+  },
+  {
+    "name": "Pan",
+    "description": "god",
+    "words": [
+      "wild",
+      "shepherds",
+      "flocks",
+      "rustic music",
+      "fertility of the wild/flocks"
+    ]
+  },
+  {
+    "name": "Peitho",
+    "description": "personification",
+    "words": ["persuasion", "seduction"]
+  },
+  {
+    "name": "Philotes",
+    "description": "goddess/daimon",
+    "words": ["affection", "intercourse"]
+  },
+  {
+    "name": "Priapus",
+    "description": "god",
+    "words": ["sexual intercourse", "genitalia", "nature", "fertility", "lust"]
+  },
+  {
+    "name": "Selene",
+    "description": "moon",
+    "words": ["love-magic", "lovesick women"]
+  },
+  {
+    "name": "Albina",
+    "description": "goddess/protector",
+    "words": ["dawn", "ill-fated lovers"]
+  },
+  { "name": "Turan", "description": "goddess", "words": ["love", "vitality"] },
+  {
+    "name": "Astghik",
+    "description": "goddess",
+    "words": ["fertility", "love"]
+  },
+  { "name": "Azrul", "description": "god", "words": ["seduction", "sex"] },
+  { "name": "Kamadeva", "description": "god", "words": ["love", "desire"] },
+  {
+    "name": "Rati",
+    "description": "goddess",
+    "words": ["love", "carnal desire", "lust", "passion", "sexual pleasure"]
+  },
+  { "name": "Ushas", "description": "goddess", "words": ["dawn"] },
+  {
+    "name": "Anahita",
+    "description": "goddess",
+    "words": ["water", "fertility", "sex"]
+  },
+  { "name": "Aisyt", "description": "goddess", "words": ["love", "beauty"] },
+  { "name": "Bangan", "description": "goddess", "words": ["romance"] },
+  { "name": "Obban", "description": "goddess", "words": ["reproduction"] },
+  {
+    "name": "Amas",
+    "description": "deity",
+    "words": ["pity", "love", "unity", "peace of heart"]
+  },
+  {
+    "name": "Dian Masalanta",
+    "description": "goddess",
+    "words": ["lovers", "generation"]
+  },
+  { "name": "Mangagayuma", "description": "deity", "words": ["charms"] },
+  { "name": "Agkui", "description": "divinities", "words": ["sexual excess"] },
+  {
+    "name": "Tagbayaw",
+    "description": "goddess",
+    "words": ["incest", "adultery"]
+  },
+  {
+    "name": "Jiutian Xuannü",
+    "description": "goddess",
+    "words": ["war", "sex", "longevity"]
+  },
+  {
+    "name": "Yue-Lao",
+    "description": "god",
+    "words": ["love", "binding", "invisible red string"]
+  },
+  { "name": "Tu Er Shen", "description": "deity", "words": ["homosexual men"] },
+  {
+    "name": "White Peony",
+    "description": "goddess",
+    "words": ["temptation", "ascetics"]
+  },
+  {
+    "name": "Wutong Shen",
+    "description": "deities",
+    "words": ["ravishing", "possession", "beautiful women"]
+  },
+  { "name": "Baimei Shen", "description": "god", "words": ["prostitution"] },
+  {
+    "name": "Qian Keng",
+    "description": "god",
+    "words": ["health-focused sex"]
+  },
+  {
+    "name": "Chuangmu",
+    "description": "goddess",
+    "words": ["bedchamber", "sex", "sleep", "childbirth"]
+  },
+  { "name": "King Zhou", "description": "god", "words": ["sodomy"] },
+  { "name": "Daikokuten", "description": "god", "words": ["prosperity"] },
+  {
+    "name": "Ông Tơ/Bà Nguyệt",
+    "description": "gods",
+    "words": ["love", "marriage"]
+  },
+  {
+    "name": "Aizen Myō-ō",
+    "description": "deity",
+    "words": ["spiritual awakening"]
+  },
+  { "name": "Kuni", "description": "god", "words": ["love"] },
+  {
+    "name": "Kurukulla",
+    "description": "goddess",
+    "words": ["magnetization", "enchantment"]
+  },
+  { "name": "Ixcuiname", "description": "goddess", "words": ["carnality"] },
+  { "name": "Teicu", "description": "goddess", "words": ["sexual appetite"] },
+  { "name": "Tiacapan", "description": "goddess", "words": ["sexual hunger"] },
+  { "name": "Tlaco", "description": "goddess", "words": ["sexual longing"] },
+  {
+    "name": "Tlazolteotl",
+    "description": "goddess",
+    "words": ["lust", "carnality", "sexual misdeeds"]
+  },
+  { "name": "Xocotzin", "description": "goddess", "words": ["sexual desire"] },
+  {
+    "name": "Xochiquetzal",
+    "description": "goddess",
+    "words": ["sex", "beauty"]
+  },
+  {
+    "name": "Xochipilli",
+    "description": "god",
+    "words": [
+      "homosexuality",
+      "love",
+      "art",
+      "games",
+      "beauty",
+      "dance",
+      "flowers",
+      "maize",
+      "fertility",
+      "song"
+    ]
+  },
+  {
+    "name": "Kurupi",
+    "description": "god",
+    "words": ["sexuality", "fertility"]
+  },
+  { "name": "Rudá", "description": "god", "words": ["love"] }
+]
